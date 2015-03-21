@@ -22,6 +22,7 @@ namespace HolaMundoForms
         private void btn_salir_Click(object sender, EventArgs e)
         {
             Application.Exit();
+            //Cambio
         }
 
         //Revisar si el usuario esta registrado
