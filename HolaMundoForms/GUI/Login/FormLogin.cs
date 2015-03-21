@@ -23,6 +23,7 @@ namespace HolaMundoForms
         {
             Application.Exit();
             //Cambio
+
         }
 
         //Revisar si el usuario esta registrado
